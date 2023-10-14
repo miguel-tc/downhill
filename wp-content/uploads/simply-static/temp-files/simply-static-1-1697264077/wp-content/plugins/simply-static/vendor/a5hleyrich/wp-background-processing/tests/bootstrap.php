@@ -1,0 +1,1 @@
+Could not find /var/folders/sk/qnjt0zss34n08fl7zn8_02dw0000gn/T/wordpress-tests-lib/includes/functions.php, have you run bin/install-wp-tests.sh ?
